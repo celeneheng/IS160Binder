@@ -1,4 +1,4 @@
-# IS160Binder
+# IS160Binder Trinh
 
 ## by Yadira Heng ##
 ###### Instructor:  Dr. Stephen Choi ######
