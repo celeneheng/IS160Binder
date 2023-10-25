@@ -6,6 +6,6 @@
 
 [4- Taxi Fare Dataset](https://github.com/celeneheng/IS160Binder/tree/4---Taxi-Fare-Dataset)
 
-
+[5- Stable Diffusion](https://github.com/celeneheng/IS160Binder/tree/5---Stable-Diffusion-Prompting)
 
 
