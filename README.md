@@ -10,7 +10,7 @@
 
 [6- Deep Racer](https://github.com/celeneheng/IS160Binder/tree/6--Deep-Racer-AWS)
 
-[7- Reinforcement Learning]((https://github.com/celeneheng/IS160Binder/tree/7--Reinforcement-Learning)
+[7- Reinforcement Learning](https://github.com/celeneheng/IS160Binder/tree/7--Reinforcement-Learning)
 
 [8- Deep Learning](https://github.com/celeneheng/IS160Binder/tree/8--Deep-Learning)
 
